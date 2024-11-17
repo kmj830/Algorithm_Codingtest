@@ -27,3 +27,5 @@ N은 최대 100만
 
 1. 상수는 시간 복잡도 계산에서 제외
 2. 가장 많이 중첩된 반복문의 수행 횟수가 시간 복잡도의 기준이 된다.
+
+https://colab.research.google.com/drive/1hcvGXRMOx1PkTajNyAVdD_hPwCQR2Vg2?usp=drive_link
